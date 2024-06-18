@@ -3,60 +3,26 @@
         "country": "South Africa",
         "deployment": "CellC",
         "total_advances_count": 2000,
-        "total_advances_value_usd": 150000
+        "total_advances_value_usd": 150000,
+        "latitude": "25.7566",
+        "longitude": "28.1914"
+
     },
     {
         "country": "Lesotho",
         "deployment": "Vodacom",
         "total_advances_count": 1500,
-        "total_advances_value_usd": 120000
+        "total_advances_value_usd": 120000,
+        "latitude": "29.6100",
+        "longitude": "28.2336"
+   
     },
     {
         "country": "Mozambique",
         "deployment": "TMCel",
         "total_advances_count": 1200,
-        "total_advances_value_usd": 90000
-    },
-    {
-        "country": "Namibia",
-        "deployment": "MTC",
-        "total_advances_count": 1800,
-        "total_advances_value_usd": 135000
-    },
-    {
-        "country": "Barbados",
-        "deployment": "Digicel",
-        "total_advances_count": 1000,
-        "total_advances_value_usd": 75000
-    },
-    {
-        "country": "Jamaica",
-        "deployment": "Digicel",
-        "total_advances_count": 1100,
-        "total_advances_value_usd": 82500
-    },
-    {
-        "country": "Bangladesh",
-        "deployment": "Teletalk",
-        "total_advances_count": 2200,
-        "total_advances_value_usd": 165000
-    },
-    {
-        "country": "Pakistan",
-        "deployment": "UFone",
-        "total_advances_count": 2500,
-        "total_advances_value_usd": 187500
-    },
-    {
-        "country": "Brazil",
-        "deployment": "TIM",
-        "total_advances_count": 3000,
-        "total_advances_value_usd": 225000
-    },
-    {
-        "country": "Belize",
-        "deployment": "Digicel",
-        "total_advances_count": 950,
-        "total_advances_value_usd": 71250
-    }
-]
+        "total_advances_value_usd": 90000,
+        "latitude": "18.6657",
+        "longitude": "35.5296"
+      
+    }]
