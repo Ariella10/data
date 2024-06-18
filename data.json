@@ -13,7 +13,7 @@
         "deployment": "Vodacom",
         "total_advances_count": 1500,
         "total_advances_value_usd": 120000,
-        "latitude": "29.6100",
+        "latitude": "-29.6100",
         "longitude": "28.2336"
    
     },
@@ -22,7 +22,7 @@
         "deployment": "TMCel",
         "total_advances_count": 1200,
         "total_advances_value_usd": 90000,
-        "latitude": "18.6657",
+        "latitude": "-18.6657",
         "longitude": "35.5296"
       
     }]
