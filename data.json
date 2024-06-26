@@ -7,24 +7,20 @@
     },
     {
         "country": "Lesotho",
-        "deployment": "Vodacom",
+        "deployment": "Vodacom"
    
-        "latitude": "-29.6100",
-        "longitude": "28.2336"
+ 
    
     },
     {
         "country": "Mozambique",
-        "deployment": "TMCel",
-    
-        "latitude": "-18.6657",
-        "longitude": "35.5296"
+        "deployment": "TMCel"
+  
       
     },
     {"country":"Namibia",
-        "deployment":"MTC",
-        "latitude":"-22.9576",
-        "longitude":"18.4904"
+        "deployment":"MTC"
+        
 
     }
 ]
