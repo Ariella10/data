@@ -2,6 +2,8 @@
 {
 "name":"Namibia",
   "code": "NA",
-  "a":"a"
+  "a":"a",
+   "latitude":"-22.9576",
+        "longitude":"18.4904"
 }
 ]
